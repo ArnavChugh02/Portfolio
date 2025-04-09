@@ -46,7 +46,7 @@ export interface ContactInfo {
   }
 }
 
-export async function parseResume(file: File): Promise<ResumeData> {
+export async function parseResume(): Promise<ResumeData> {
   // In a real application, you would send the file to a server or use a library
   // to parse the resume. For this demo, we'll return mock data.
 
