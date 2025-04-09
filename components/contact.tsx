@@ -46,6 +46,7 @@ export default function Contact() {
         message: "",
       })
     } catch (error) {
+      console.error("Error sending message:", error)
       toast({
         title: "Error",
         description: "There was an error sending your message. Please try again.",
