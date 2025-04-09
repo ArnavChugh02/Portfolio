@@ -24,7 +24,7 @@ export default function Home() {
             About Me
           </h2>
           <p className="text-lg text-zinc-300 max-w-3xl">
-            I'm a passionate Information Technology student at Manipal Institute of Technology with expertise in
+            I&apos;m a passionate Information Technology student at Manipal Institute of Technology with expertise in
             full-stack development. I specialize in creating responsive web applications and mobile solutions using
             modern technologies like React, Node.js, and Flutter. My goal is to build innovative solutions that make a
             positive impact.

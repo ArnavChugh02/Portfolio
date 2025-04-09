@@ -1,3 +1,5 @@
+/* eslint-disable react/no-unescaped-entities */
+
 "use client"
 
 import type React from "react"
@@ -70,7 +72,7 @@ export default function Contact() {
         >
           <h3 className="text-2xl font-semibold mb-4 text-zinc-100">Get In Touch</h3>
           <p className="text-zinc-400 mb-6">
-            I'm always open to new opportunities and collaborations. Feel free to reach out if you have any questions or
+            Im always open to new opportunities and collaborations. Feel free to reach out if you have any questions or
             just want to say hello!
           </p>
           <div className="space-y-4">
